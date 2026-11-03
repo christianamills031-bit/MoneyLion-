@@ -1,0 +1,5 @@
+npx create-next-app@latest announcement-site --typescript --eslint --app
+cd announcement-site
+npm install prisma @prisma/client
+npm install next-auth
+npm install resend
